@@ -1,0 +1,36 @@
+Uri: https://genuine-rp.ge/cefSpawnChoose/
+File Name: C:\Downloaded Web Sitess\genuine-rp.ge\cefSpawnChoose\index.htm
+Content Type: text/html
+
+Uri: https://genuine-rp.ge/cefSpawnChoose/fonts/eurostile-lt-std-geo-mt-demi.ttf
+File Name: C:\Downloaded Web Sitess\genuine-rp.ge\cefSpawnChoose\fonts\eurostile-lt-std-geo-mt-demi.ttf
+Content Type: font/ttf
+
+Uri: https://genuine-rp.ge/cefSpawnChoose/fonts/Poppins-Regular.ttf
+File Name: C:\Downloaded Web Sitess\genuine-rp.ge\cefSpawnChoose\fonts\Poppins-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://genuine-rp.ge/cefSpawnChoose/img/background.png
+File Name: C:\Downloaded Web Sitess\genuine-rp.ge\cefSpawnChoose\img\background.png
+Content Type: image/png
+
+Uri: https://genuine-rp.ge/cefSpawnChoose/img/box1.png
+File Name: C:\Downloaded Web Sitess\genuine-rp.ge\cefSpawnChoose\img\box1.png
+Content Type: image/png
+
+Uri: https://genuine-rp.ge/cefSpawnChoose/img/box2.png
+File Name: C:\Downloaded Web Sitess\genuine-rp.ge\cefSpawnChoose\img\box2.png
+Content Type: image/png
+
+Uri: https://genuine-rp.ge/cefSpawnChoose/img/box3.png
+File Name: C:\Downloaded Web Sitess\genuine-rp.ge\cefSpawnChoose\img\box3.png
+Content Type: image/png
+
+Uri: https://genuine-rp.ge/cefSpawnChoose/img/box4.png
+File Name: C:\Downloaded Web Sitess\genuine-rp.ge\cefSpawnChoose\img\box4.png
+Content Type: image/png
+
+Uri: https://genuine-rp.ge/cefSpawnChoose/img/box5.png
+File Name: C:\Downloaded Web Sitess\genuine-rp.ge\cefSpawnChoose\img\box5.png
+Content Type: image/png
+
